@@ -3,7 +3,7 @@ makePassword
 
 Storage less password manager, simple generator based on SHA. No third party libraries used, pure JS. 
 
-[### Latest release download](https://github.com/jacekd/makePassword/releases/tag/1.1)
+###[Latest release download](https://github.com/jacekd/makePassword/releases/tag/1.1)
 
 I've been using similar approach to password for the last few years. The extensions are direct clone of a website I was using hosted under [tools.jacekdominiak.com](http://tools.jacekdominiak.com). 
 
@@ -17,10 +17,10 @@ In a short, what you need to follow is:
 
 
 Changelog:
-* ####1.1
+####1.1(https://github.com/jacekd/makePassword/releases/tag/1.1)
 - generated password cleans itself upon closure of the pop-up window
 
-* ####1.0
+####1.0(https://github.com/jacekd/makePassword/releases/tag/1.0)
 - autoselect generated password upon enter
 - autoselect master password upon open
 - new icon
