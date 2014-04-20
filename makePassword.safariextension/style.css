@@ -39,16 +39,18 @@ h1,h2,h3,h4,h5 {
     width: 30px;
 }
 
-input[type=submit], form a {
+.values input[type=submit], form a {
+    display: block;
     border: 1px solid #2980b9;
+    border-bottom: 3px solid #2980b9;
     text-decoration: none;
-    margin-right: 12px;
-    margin-bottom: 12px;
-    float: right;
-    padding: 6px;
+    margin: 12px;
+    padding: 0.8em;
     font-size: 12px;
+    width: 304px;
     background: #3498db;
     color: white;
+    text-align: center;
 }
 
 input[type=submit]:hover, form a:hover {
