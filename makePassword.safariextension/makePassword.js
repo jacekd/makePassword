@@ -99,3 +99,6 @@ function binb2b64(binarray)
     return str;
 }
 
+window.onblur = function (event) {
+  document.f.password.value = "";
+};

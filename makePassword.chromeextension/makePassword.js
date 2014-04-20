@@ -109,3 +109,6 @@ form.addEventListener("submit", function () {
     return false;
 });
 
+window.onblur = function (event) {
+    document.f.password.value = "";
+};
