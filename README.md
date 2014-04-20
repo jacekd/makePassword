@@ -21,11 +21,11 @@ In a short, what you need to follow is:
 
 ==========
 Changelog:
-####1.1(https://github.com/jacekd/makePassword/releases/tag/1.1)
+####1.1 (https://github.com/jacekd/makePassword/releases/tag/1.1)
 - generated password cleans itself upon closure of the pop-up window
 
-####1.0(https://github.com/jacekd/makePassword/releases/tag/1.0)
+####1.0 (https://github.com/jacekd/makePassword/releases/tag/1.0)
 - autoselect generated password upon enter
 - autoselect master password upon open
 - new icon
-- fairly stable [based on 
+- fairly stable [based on the code I was using for years]
