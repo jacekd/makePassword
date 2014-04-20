@@ -6,6 +6,7 @@ Storage less password manager, simple generator based on SHA. No third party lib
 ###[Latest release download](https://github.com/jacekd/makePassword/releases/tag/1.1)
 
 _screenshots_:
+
 ![screenshot1](images/screen1.png) ![screenshot2](images/screen2.png)
 
 I've been using similar approach to password for the last few years. The extensions are direct clone of a website I was using hosted under [tools.jacekdominiak.com](http://tools.jacekdominiak.com). 
