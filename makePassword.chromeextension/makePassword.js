@@ -103,7 +103,7 @@ var form = document.f;
 
 form.addEventListener("submit", function () {
     event.preventDefault();
-    form.password.value = b64_sha1(form.master.value+':'+form.site.value).substr(0,1) + '1a';
+    form.password.value = b64_sha1(document.f.master.value+':'+document.f.site.value).substr(0,8) + '1a';
     document.f.password.focus();
     document.f.password.select();
     return false;
