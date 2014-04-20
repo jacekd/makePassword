@@ -15,7 +15,7 @@ In a short, what you need to follow is:
 
 3. Hit [enter] or [Generate Password] then simply copy the password. 
 
-
+==========
 Changelog:
 ####1.1(https://github.com/jacekd/makePassword/releases/tag/1.1)
 - generated password cleans itself upon closure of the pop-up window
