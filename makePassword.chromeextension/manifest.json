@@ -2,7 +2,7 @@
     "manifest_version": 2,
     "name": "makePassword",
     "description": "storage less password generator",
-    "version": "1.0",
+    "version": "1.1",
     "permissions": [
     ],
     "browser_action": {
