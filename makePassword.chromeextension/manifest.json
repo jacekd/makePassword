@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "name": "makePassword",
+    "description": "storage less password generator",
+    "version": "1.0",
+    "permissions": [
+    ],
+    "browser_action": {
+        "default_icon": "icon.png",
+        "default_popup": "makePassword.html"
+    }
+}
